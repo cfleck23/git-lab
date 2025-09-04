@@ -62,7 +62,7 @@
 
 11.) I received an error message
 
-12.)
+12.) The changes carried over from GitHub
 
 
 
