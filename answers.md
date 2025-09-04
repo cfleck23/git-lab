@@ -64,6 +64,8 @@
 
 12.) The changes carried over from GitHub
 
+13.) ~/2400/git-lab-2$ ls -a
+.  ..  .git  .gitignore  README.md
 
 
 
